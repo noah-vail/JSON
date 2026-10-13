@@ -1,0 +1,29 @@
+[
+    {
+        "type": "Grocery",
+        "title": "Bananas",
+        "description": "A grocery list item",
+        "status": "Complete",
+        "dateCreated": "2026-09-15",
+        "dueDate": "2026-09-25T14:25:30.123Z",
+        "isComplete": true
+    },
+    {
+        "type": "Work",
+        "title": "Complete learning course",
+        "description": "KYC refresher",
+        "status": "In Progress",
+        "dateCreated": "2026-10-06T13:12:40.123Z",
+        "dueDate": "2026-10-31",
+        "isComplete": false
+    },
+    {
+        "type": "Study",
+        "title": "Learn algebra",
+        "description": "Chapter 1",
+        "status": "To do",
+        "dateCreated": "2026-10-02T12:32:12.123Z",
+        "dueDate": "2026-10-19",
+        "isComplete": false
+    }
+]
