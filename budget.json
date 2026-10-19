@@ -1,0 +1,51 @@
+[
+  {
+    "Firstname": "Billy",
+    "Lastname": "Joal",
+    "Email": "billy@email.com",
+    "AccountType": "Checking",
+    "AccountName": "Preferred Package",
+    "Balance": 2562.52,
+    "BudgetName": "First Budget",
+    "GoalTarget": 1000.0,
+    "BudgetStartDate": "2026-10-19T13:11.75z",
+    "BudgetEndDate": "2027-02-27T14:22.30z",
+    "RecordKeeping": "Monthly",
+    "ExpType": "Expense",
+    "ExpDescription": "Groceries",
+    "ExpAmount": 250.32,
+    "ExpenseDate": "2026-10-19T13:11.75z"
+  },
+  {
+    "Firstname": "Noah",
+    "Lastname": "Vail",
+    "Email": "noah@email.com",
+    "AccountType": "Savings",
+    "AccountName": "Momentum Savings",
+    "Balance": 8422.12,
+    "BudgetName": "Savings Budget",
+    "GoalTarget": 10000.0,
+    "BudgetStartDate": "2026-10-19T13:11.75z",
+    "BudgetEndDate": "2027-02-27T14:22.30z",
+    "RecordKeeping": "Bi-Weekly",
+    "ExpType": "Expense",
+    "ExpDescription": "Gas",
+    "ExpAmount": 85.26,
+    "ExpenseDate": "2026-10-19T13:11.75z"
+  },
+  {
+    "RecordKeeping": "Weekly"
+  },
+  {
+    "RecordKeeping": "Yearly"
+  },
+  {
+    "AccountType": "Credit Card"
+  },
+  {
+    "ExpType": "Income"
+  },
+  {
+    "ExpType": "Transfer"
+  }
+]
